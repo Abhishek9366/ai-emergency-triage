@@ -1,7 +1,9 @@
 import axios from 'axios';
 
 // Fallback to localhost if environment variable isn't configured yet
-const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000/api';
+const api = axios.create({
+  baseURL: '/api' 
+});
 
 export const triageAPI = {
   // Post triage data to FastAPI backend
