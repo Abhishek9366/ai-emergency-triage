@@ -9,7 +9,7 @@ export const triageAPI = {
   // Post triage data to FastAPI backend
   submitTriage: async (patientData) => {
     try {
-      const response = await axios.post(`${API_BASE_URL}/triage`, patientData);
+      const response = await axios.post('/api/triage', patientData);
       return response.data;
     } catch (error) {
       console.error("API error submitting patient context:", error);
