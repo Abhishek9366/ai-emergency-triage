@@ -21,7 +21,7 @@ export const triageAPI = {
   getQueue: async () => {
     try {
 
-    const response = await axios.get('/api/queue');
+    const response = await axios.get('/api/patients');
       return response.data;
     } catch (error) {
       console.error("API error fetching doctor queue:", error);
