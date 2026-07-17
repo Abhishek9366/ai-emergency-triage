@@ -1,7 +1,6 @@
 import os
 import json 
 import random
-from random import random
 from app.models import PatientData, AITriageResponse
 
 # You can keep whatever imports you originally had at the top of the file!
