@@ -1,5 +1,5 @@
 
-Live Deployment: [Click here to view the live app](https://ai-emergency-triage.onrender.com)
+Live Deployment: [Click here to view the live app]([https://ai-emergency-triage.onrender.com](https://ai-emergency-triage.onrender.com))
 Demo Video: [Insert YouTube/Drive Link Here]
 
 ## 📌 Project Overview
