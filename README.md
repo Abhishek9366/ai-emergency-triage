@@ -1,6 +1,6 @@
 
 Live Deployment: [Click here to view the live app](https://ai-emergency-triage.onrender.com)
-Demo Video: [[Insert YouTube/Drive Link Here](https://drive.google.com/drive/folders/1QBbly4mHiLV5gr98Hy97VvM7FWKgC2jN?usp=drive_link)]
+Demo Video: [[Drive Link Here](https://drive.google.com/drive/folders/1QBbly4mHiLV5gr98Hy97VvM7FWKgC2jN?usp=drive_link)]
 
 ## 📌 Project Overview
 PulseTriage AI is a full-stack health-tech solution built for **Theme 3: Crisis Management, HealthTech & Emergency Response**. It addresses the critical bottleneck of ER patient triaging by utilizing artificial intelligence to analyze physiological data, assign severity scores, and dynamically map patients to the correct hospital department.
